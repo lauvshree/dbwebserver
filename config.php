@@ -1,6 +1,6 @@
 <?php
 $host = "database-1.caubbk7qzzzx.us-east-1.rds.amazonaws.com"; // or your DB host
-$dbname = "database1";
+$dbname = "userdb";
 $username = "admin"; // your DB username
 $password = "admin1234"; // your DB password
 
